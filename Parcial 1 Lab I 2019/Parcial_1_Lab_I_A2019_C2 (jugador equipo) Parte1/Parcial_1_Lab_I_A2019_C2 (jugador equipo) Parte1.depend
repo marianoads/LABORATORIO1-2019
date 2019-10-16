@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1567778564 source:d:\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570715961 source:d:\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1567778564 d:\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\utn.h
+
+1570758998 source:c:\users\mariano\downloads\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571036240 source:c:\users\mariano\downloads\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570803360 c:\users\mariano\downloads\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\utn.h
+
