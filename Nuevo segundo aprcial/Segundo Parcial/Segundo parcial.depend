@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1574947349 source:d:\segundo parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Vuelo.h"
+	"Controller.h"
+	"input.h"
+	"parser.h"
+
+1574948927 d:\segundo parcial\linkedlist.h
+
+1574950552 d:\segundo parcial\vuelo.h
+
+1574945638 d:\segundo parcial\controller.h
+	"LinkedList.h"
+
+1560474531 d:\segundo parcial\input.h
+
+1574942353 d:\segundo parcial\parser.h
+
+1574338958 source:d:\segundo parcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1574951627 source:d:\segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vuelo.h"
+	"Controller.h"
+	"LinkedList.h"
+
+1574943411 source:d:\segundo parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Vuelo.h"
+
+1574951793 source:d:\segundo parcial\vuelo.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"Vuelo.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1574950280 source:d:\segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Vuelo.h"
+	"Controller.h"
+
