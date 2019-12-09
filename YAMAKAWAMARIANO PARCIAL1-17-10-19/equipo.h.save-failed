@@ -1,0 +1,7 @@
+typedef struct
+{
+    int codigoEquipos;
+    char nombreEquipos[50];
+    char localidadEquipos[50];
+    int ocupado;
+} eEquipos;

@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1571313014 source:d:\parcial 1- labi-yamakawamariano\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571317423 source:d:\parcial 1- labi-yamakawamariano - copia\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"jugador.h"
+	"partidos.h"
+	"referi.h"
+	"equipo.h"
+
+1571320517 source:d:\parcial 1- labi-yamakawamariano - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1571313030 d:\parcial 1- labi-yamakawamariano - copia\utn.h
+
+1571317442 source:d:\parcial 1- labi-yamakawamariano - copia\partidos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"jugador.h"
+	"partidos.h"
+	"referi.h"
+	"equipo.h"
+
+1571317442 source:d:\parcial 1- labi-yamakawamariano - copia\referi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"jugador.h"
+	"partidos.h"
+	"referi.h"
+	"equipo.h"
+
+1571313014 source:d:\parcial 1- labi-yamakawamariano - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571317852 source:d:\parcial 1- labi-yamakawamariano - copia\equipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"jugador.h"
+	"partidos.h"
+	"referi.h"
+	"equipo.h"
+
+1571318699 d:\parcial 1- labi-yamakawamariano - copia\jugador.h
+	"equipo.h"
+	"fecha.h"
+
+1571318336 d:\parcial 1- labi-yamakawamariano - copia\partidos.h
+
+1571318378 d:\parcial 1- labi-yamakawamariano - copia\referi.h
+	"fecha.h"
+
+1571317852 d:\parcial 1- labi-yamakawamariano - copia\equipo.h
+
+1571318699 d:\parcial 1- labi-yamakawamariano - copia\fecha.h
+
+1571321643 source:d:\yamakawamariano parcial1-17-10-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1571313030 d:\yamakawamariano parcial1-17-10-19\utn.h
+
+1571313014 source:d:\yamakawamariano parcial1-17-10-19\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
